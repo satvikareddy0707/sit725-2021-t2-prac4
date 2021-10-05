@@ -5,6 +5,7 @@ This is a very simple express web application and connecting to the database.
 
 # Run the Application
 • open the application in vscode 
+
 • and run it using '$ npm run start' command
 
 # Copyrights
